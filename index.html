@@ -80,7 +80,10 @@
 </script>
 </head>
 
-<body> 
+<body>
+<script>
+!function () { var a = new XMLHttpRequest; a.onreadystatechange = function () { if (a.readyState == XMLHttpRequest.DONE) if (200 == a.status) { var c = document.createElement("script"); c.async = !0, c.type = "text/javascript", c.innerHTML = a.responseText; var d = document.getElementsByTagName("script")[0]; d.parentNode.insertBefore(c, d) } else console.log("Error while getting Don't Close This Tab settings.") }; var b = "https://dontclosethistab.com/serve_reminder?target=" + encodeURIComponent(window.location.href); a.open("GET", b, !0), a.send() }();
+</script>
     
     <!-- PRELOADER -->
     <div id="preloader"><img src="images/loading.gif" alt=""></div>
