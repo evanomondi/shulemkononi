@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module style="background-color:#EEEEEE">
+<ModulePrefs title="OLX INTRANET GADGET" />
+<Content type="html"><![CDATA[
+
+<center style="background-color:#EEEEEE">
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto">
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="http://olx.co.ke" imageanchor="1"><img alt="OLX" src="https://sites.google.com/a/olx.com/intranet-kenya/home/OLX_Logo-png.png" height="166" border="0" width="200"></a></div>
+<br>
+</div>
+<img src="https://res.cloudinary.com/e-bima/image/upload/v1492777733/OLX_INTRANET_KENYA_rxdblt.png" usemap="#image-map">
+
+<map name="image-map">
+    <area target="_blank" alt="The OLX Group" title="The OLX Group" href="https://sites.google.com/a/naspersclassifieds.com/liveit-links/home?pli=1" coords="1,0,217,312" shape="rect">
+    <area target="_blank" alt="Requests" title="Requests" href="https://docs.google.com/a/olx.com/forms/d/e/1FAIpQLSfw_yDaLLaP9I_0UTMbcumHmdrJjOmR6RIokRbXkyPTeymSFw/viewform" coords="218,7,530,286" shape="rect">
+    <area target="_blank" alt="Requests User Guide" title="Requests User Guide" href="https://docs.google.com/document/d/1gKOwLdBIqqbI4YxP0Q9HtwHyjCyQ2g1Gko1rx4jidJk/edit" coords="219,289,529,311" shape="rect">
+    <area target="_blank" alt="HR Portal" title="HR Portal" href="https://axiopay.payus.co.za/CMS/Default.aspx" coords="534,5,798,420" shape="rect">
+    <area target="_blank" alt="Expensify" title="Expensify" href="https://www.expensify.com/signin" coords="529,319,2,422" shape="rect">
+    <area target="_blank" alt="Fusion " title="Fusion " href="http://fusion.naspersgroup.com/" coords="4,426,531,521" shape="rect">
+    <area target="_blank" alt="Fusion Password Reset" title="Fusion Password Reset" href="pass.naspersgroup.com/" coords="797,520,535,425" shape="rect">
+</map>
+<span style="background-color:#EEEEEE">
+<strong>
+<p style="color:#4f2c7e">OLX INTRANET KENYA</p>
+</strong>
+</span>
+</center>
+
+
+]]></Content>
+</Module>
