@@ -243,20 +243,21 @@
                 <div class="col-md-4 col-sm-12">
                     <div class="contact-form bottom">
                         <h2>Send a message</h2>
-                        <form data-forge-name="Contact">
-                            <div class="form-group">
-                                <input type="text" data-forge-name="name" class="form-control" required="required" placeholder="Name">
+                         <form method="POST" action="https://formspree.io/evanomondi7@gmail.com">
+			 <input type="hidden" name="_next" value="https://shulemkononi.co.ke/evan/thank-you.html" />
+				<div class="form-group">
+                                <input type="text" name="names" class="form-control" required="required" placeholder="Name">
                             </div>
-                            <div class="form-group">
-                                <input type="email" data-forge-name="email" class="form-control" required="required" placeholder="Email Id">
-                            </div>
-                            <div class="form-group">
-                                <textarea data-forge-name="message" required="required" class="form-control" rows="8" placeholder="Your text here"></textarea>
-                            </div>                        
-                            <div class="form-group">
-                                <input type="submit" name="submit" class="btn btn-submit" value="Submit">
-                            </div>
-                        </form>
+			<div class="form-group">
+			  <input type="email" name="email" class="form-control" required="required" placeholder="Your email">
+				 </div>
+			<div class="form-group">
+			  <textarea name="message" class="form-control" required="required" placeholder="Your message"></textarea>
+				 </div>
+			<input type="text" name="_gotcha" style="display:none" />
+			  <button class="btn btn-submit" type="submit">Send</button>
+				
+			</form>
                     </div>
                 </div>
                 <div class="col-sm-12">
